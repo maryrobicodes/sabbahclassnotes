@@ -1,2 +1,2 @@
-# sabbahclassnotes
+# sabbathclassnotes
 Sabbath Class Notes
